@@ -33,34 +33,7 @@ I connect **clinical research operations, product execution, and AI prototyping*
 | Protocol-aware coordination for multi-center RCTs | Pilots and evaluation plans grounded in clinical workflows | Rapid healthcare AI prototypes with Python and web technologies |
 | Investigator, timeline, document, and data-flow alignment | Usability, safety, adherence, and outcome measurement | Context-adaptive cognitive intervention and agent workflows |
 
-## Featured Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/jeongtaeksoo/context-adaptive-cognitive-flow">🧠 Context-Adaptive Cognitive Flow</a></h3>
-<p>Reproducible implementation of a Coach–Teacher–Companion framework for cognitive intervention in older adults.</p>
-<p><code>Python</code> <code>Generative AI</code> <code>Digital Health</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/jeongtaeksoo/repolens-code-dna">🔎 RepoLens Code DNA</a></h3>
-<p>Evidence-first public GitHub repository assessment that turns repository signals into reviewable findings.</p>
-<p><code>TypeScript</code> <code>AI Agents</code> <code>Evidence</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/jeongtaeksoo/lumi-mind-arcade">🎮 LUMI'S MIND ARCADE</a></h3>
-<p>A three-minute browser game for attention, memory, pattern recognition, and directional sequencing.</p>
-<p><code>JavaScript</code> <code>Cognitive Game</code> <code>Web</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://jeongtaeksoo.github.io/">🩺 DTX Insight Portfolio</a></h3>
-<p>Clinical research, publications, digital health projects, and field-tested AI product thinking.</p>
-<p><code>Clinical Research</code> <code>RCT</code> <code>AI Prototyping</code></p>
-</td>
-</tr>
-</table>
 
 ## Selected Publications
 
