@@ -57,9 +57,13 @@ I use **OpenAI Codex as my primary coding partner** to turn clinical research id
 
 <div align="center">
 
-![Primary Coding Partner: OpenAI Codex](https://img.shields.io/badge/Primary_Coding_Partner-OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-
+<a href="https://openai.com/codex/">
+  <img width="72" src="./assets/codex-mark.png" alt="OpenAI Codex" />
+</a>
 <br />
+<strong>Primary Coding Partner · OpenAI Codex</strong>
+
+<br /><br />
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,git,github&theme=dark" alt="Python, TypeScript, JavaScript, React, Vite, Git, and GitHub" />
 
