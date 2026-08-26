@@ -43,6 +43,15 @@ I connect **clinical research operations, product execution, and AI prototyping*
 - **Co-author · 2025** — [AI-driven cognitive telerehabilitation for stroke: a randomized controlled trial](https://doi.org/10.3389/fneur.2025.1636017), *Frontiers in Neurology*
 - **Co-author · 2025** — [Artificial Intelligence-Guided Mobile Telerehabilitation for Individuals With Cognitive Impairment: A Feasibility Study](https://doi.org/10.5535/arm.250060), *Annals of Rehabilitation Medicine*
 
+## Conference Presentations & Posters
+
+- **Scheduled Presentation · 2026** — *Japan–Korea Comparison of Digital Cognitive Care for Extending Healthy Life Expectancy: Development and Field Implementation of the AI Cognitive Care App “Memory Garden”*, Japan–Korea Symposium on Challenges in a Low-Birthrate and Aging Society · Osaka · 21 November 2026
+- **Accepted E-Poster · 2026** — [Mapping Implementation Priorities in Stroke Cognitive Telerehabilitation to the Adaptive Coach–Teacher–Companion Framework](https://worldstrokecongress.org/), 18th World Stroke Congress · Seoul · 21–23 October 2026
+- **Poster · 2026** — [AI-Driven Telerehabilitation for Older Adults with Mild Cognitive Impairment](https://www.karm.or.kr/workshop/?abyear=202601&mode=green_view&sid=6566), Korean Academy of Rehabilitation Medicine Spring Conference · Cheongju · 17–18 April 2026
+- **E-Poster · 2025** — [Artificial Intelligence-Driven Cognitive Telerehabilitation for Stroke: A Randomized Controlled Trial](https://doi.org/10.1177/17474930251371440), 17th World Stroke Congress · Barcelona · 22–24 October 2025
+- **Poster · 2024** — [Artificial Intelligence-Guided Mobile Telerehabilitation for Subjects with Cognitive Impairment](https://www.karm.or.kr/workshop/?abyear=202402&mode=green_view&sid=5985), 52nd Korean Academy of Rehabilitation Medicine Autumn International Conference · Seoul · 25–26 October 2024
+- **Poster · 2024** — [Predictive Value of Cognitive Function and ALT for Functional Ambulation Gain in MCA Stroke Patients](https://www.karm.or.kr/workshop/202402/file/eposter/P-36.pdf), 52nd Korean Academy of Rehabilitation Medicine Autumn International Conference · Seoul · 25–26 October 2024
+
 ## Research & Build Stack
 
 <div align="center">
