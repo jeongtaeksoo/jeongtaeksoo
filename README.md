@@ -58,18 +58,6 @@ I connect **clinical research operations, product execution, and AI prototyping*
 
 </div>
 
-## GitHub Activity
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeongtaeksoo&theme=tokyonight" alt="Taeksoo Jeong's GitHub contribution summary" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeongtaeksoo&theme=tokyonight" alt="Repositories by language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jeongtaeksoo&theme=tokyonight&utcOffset=9" alt="Productive contribution time" />
-<img width="32%" src="https://streak-stats.demolab.com?user=jeongtaeksoo&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=38BDF8&currStreakLabel=2DD4BF" alt="Taeksoo Jeong's GitHub contribution streak" />
-
-</div>
-
 ## Let's Connect
 
 I am open to conversations around **clinical validation, digital health product strategy, cognitive care, and responsible healthcare AI**.
