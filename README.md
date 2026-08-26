@@ -51,9 +51,15 @@ I connect **clinical research operations, product execution, and AI prototyping*
 - **Poster · 2024** — [Artificial Intelligence-Guided Mobile Telerehabilitation for Subjects with Cognitive Impairment](https://www.karm.or.kr/workshop/?abyear=202402&mode=green_view&sid=5985), 52nd Korean Academy of Rehabilitation Medicine Autumn International Conference · Seoul · 25–26 October 2024
 - **Poster · 2024** — [Predictive Value of Cognitive Function and ALT for Functional Ambulation Gain in MCA Stroke Patients](https://www.karm.or.kr/workshop/202402/file/eposter/P-36.pdf), 52nd Korean Academy of Rehabilitation Medicine Autumn International Conference · Seoul · 25–26 October 2024
 
-## Research & Build Stack
+## AI-Assisted Prototyping Toolkit
+
+I use **OpenAI Codex as my primary coding partner** to turn clinical research ideas into testable prototypes. I define the clinical problem, research requirements, evaluation criteria, and product direction; Codex supports implementation and iteration.
 
 <div align="center">
+
+![Primary Coding Partner: OpenAI Codex](https://img.shields.io/badge/Primary_Coding_Partner-OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+<br />
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,git,github&theme=dark" alt="Python, TypeScript, JavaScript, React, Vite, Git, and GitHub" />
 
