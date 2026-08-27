@@ -4,10 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=0EA5A4&center=true&vCenter=true&width=820&lines=Registered+Nurse+%C2%B7+Clinical+Research+Operator;Building+testable+healthcare+AI+systems;Multi-center+RCTs+%C2%B7+Digital+Health+%C2%B7+Aging;From+research+protocols+to+working+products)](https://github.com/jeongtaeksoo)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jeongtaeksoo.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taeksoo-jeong-20685b296/)
-[![Hwiwasoo](https://img.shields.io/badge/Hwiwasoo-AI_Care_Research-6366F1?style=for-the-badge)](https://hwiwasoo.com/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeongtaeksoo8@gmail.com)
+<a href="https://jeongtaeksoo.github.io/"><img width="48" src="./assets/portfolio-mark.png" alt="Portfolio" title="Portfolio" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/taeksoo-jeong-20685b296/"><img width="48" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://hwiwasoo.com/"><img width="48" src="./assets/hwiwasoo-mark.png" alt="hwiwasoo" title="hwiwasoo" /></a>&nbsp;&nbsp;<a href="mailto:jeongtaeksoo8@gmail.com"><img width="48" src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" /></a>
 
 </div>
 
