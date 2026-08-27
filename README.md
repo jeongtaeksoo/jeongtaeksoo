@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jeongtaeksoo.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taeksoo-jeong-20685b296/)
+[![Hwiwasoo](https://img.shields.io/badge/Hwiwasoo-AI_Care_Research-6366F1?style=for-the-badge)](https://hwiwasoo.com/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeongtaeksoo8@gmail.com)
 
 </div>
